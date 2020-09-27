@@ -1,0 +1,61 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+#ghq{
+    width: 90vw;
+    height: 86vh;
+    border: 2px solid blue;
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color: rgba(81, 255, 0, 0.918);
+}
+
+
+
+
+
+#abc{
+    width: 75vw;
+    height: 7vh;
+    margin: 2.5px;
+    
+    font-size: medium;
+    
+
+}
+#icon{
+    
+    font-size: 25px;
+    color: white;
+    margin-top: 2px;
+    
+}
+#inputsec{
+    background-color: rgb(25, 177, 19);
+    width: 90vw;
+    height: 8vh;
+}
+
+#mess{
+    width: 89vw;
+    padding: 5px;
+    list-style: none;
+    height: 84vh;
+    overflow-y: scroll;
+}
+li{
+    background-color: white;
+    font-size: medium;
+    font-family: sans-serif;
+    margin-top: 2px;
+    padding: 2px;
+    height: fit-content;
+    border-radius: 5px;
+    
+}
